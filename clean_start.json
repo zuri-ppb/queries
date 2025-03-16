@@ -1,0 +1,164 @@
+{
+  "students": [
+    {
+      "last_name": "Smith",
+      "first_name": "John",
+      "middle_name": "Michael",
+      "group": "A",
+      "year_of_birth": 2002,
+      "address": "123 Main St, Anytown, USA"
+    },
+    {
+      "last_name": "Johnson",
+      "first_name": "Emily",
+      "middle_name": "Grace",
+      "group": "B",
+      "year_of_birth": 2001,
+      "address": "456 Elm St, Anytown, USA"
+    },
+    {
+      "last_name": "Garc",
+      "first_name": "Carlos",
+      "middle_name": "Antonio",
+      "group": "A",
+      "year_of_birth": 2003,
+      "address": "789 Oak St, Anytown, USA"
+    },
+    {
+      "last_name": "Lee",
+      "first_name": "Ji-hyun",
+      "middle_name": "Kim",
+      "group": "C",
+      "year_of_birth": 2000,
+      "address": "321 Maple St, Anytown, USA"
+    },
+    {
+      "last_name": "Wang",
+      "first_name": "Yi",
+      "middle_name": "Chen",
+      "group": "B",
+      "year_of_birth": 2002,
+      "address": "654 Pine St, Anytown, USA"
+    },
+    {
+      "last_name": "Gonzalez",
+      "first_name": "Maria",
+      "middle_name": "Isabella",
+      "group": "A",
+      "year_of_birth": 2001,
+      "address": "987 Cedar St, Anytown, USA"
+ },
+    {
+      "last_name": "Kim",
+      "first_name": "Min-ji",
+      "middle_name": "Park",
+      "group": "C",
+      "year_of_birth": 2003,
+      "address": "246 Birch St, Anytown, USA"
+    },
+    {
+      "last_name": "Singh",
+      "first_name": "Raj",
+      "middle_name": "Kumar",
+      "group": "B",
+      "year_of_birth": 2000,
+      "address": "135 Walnut St, Anytown, USA"
+    },
+    {
+      "last_name": "Martinez",
+      "first_name": "Juan",
+      "middle_name": "Carlos",
+      "group": "A",
+      "year_of_birth": 2002,
+      "address": "864 Oak St, Anytown, USA"
+    },
+    {
+      "last_name": "Chen",
+      "first_name": "Wei",
+      "middle_name": "Liu",
+      "group": "C",
+      "year_of_birth": 2001,
+      "address": "975 Maple St, Anytown, USA"
+    },
+    {
+      "last_name": "Brown",
+      "first_name": "Emma",
+      "middle_name": "Grace",
+      "group": "B",
+      "year_of_birth": 2003,
+      "address": "642 Pine St, Anytown, USA"
+    },
+    {
+      "last_name": "Nguyen",
+      "first_name": "Thi",
+      "middle_name": "Kim",
+      "group": "A",
+      "year_of_birth": 2000,
+      "address": "753 Cedar St, Anytown, USA"
+    },
+    {
+      "last_name": "Gupta",
+      "first_name": "Amit",
+      "middle_name": "Kumar",
+      "group": "C",
+      "year_of_birth": 2002,
+      "address": "864 Birch St, Anytown, USA"
+    },
+    {
+      "last_name": "Taylor",
+      "first_name": "Olivia",
+      "middle_name": "Rose",
+      "group": "B",
+      "year_of_birth": 2001,
+      "address": "975 Walnut St, Anytown, USA"
+    },
+    {
+      "last_name": "Rodriguez",
+      "first_name": "Jose",
+      "middle_name": "Luis",
+      "group": "A",
+      "year_of_birth": 2003,
+      "address": "642 Oak St, Anytown, USA"
+    },
+    {
+      "last_name": "Park",
+      "first_name": "Ji-hoon",
+      "middle_name": "Kim",
+      "group": "C",
+      "year_of_birth": 2000,
+      "address": "753 Maple St, Anytown, USA"
+    },
+    {
+      "last_name": "Anderson",
+      "first_name": "Sophia",
+      "middle_name": "Elizabeth",
+      "group": "B",
+      "year_of_birth": 2002,
+      "address": "864 Pine St, Anytown, USA"
+    },
+    {
+      "last_name": "Ali",
+      "first_name": "Mohammed",
+      "middle_name": "Ahmed",
+      "group": "A",
+      "year_of_birth": 2001,
+      "address": "975 Cedar St, Anytown, USA"
+    },
+    {
+      "last_name": "Kim",
+      "first_name": "Min-ji",
+      "middle_name": "Lee",
+      "group": "C",
+      "year_of_birth": 2003,
+      "address": "642 Birch St, Anytown, USA"
+    },
+    {
+      "last_name": "Garcia",
+      "first_name": "Sofia",
+      "middle_name": "Isabella",
+      "group": "B",
+      "year_of_birth": 2000,
+      "address": "753 Walnut St, Anytown, USA"
+    }
+]
+}

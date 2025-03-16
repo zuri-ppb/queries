@@ -1,0 +1,186 @@
+[
+    {
+      "_id": "64ba537c9fbc4b6d8938a831",
+      "id": "supplier3",
+      "name": "Supplier C",
+      "phoneNumber": "555-555-5555",
+      "address": {
+        "city": "Minsk",
+        "street": "Gorovtsa",
+        "house": "22/1",
+        "office": "23a"
+      },
+      "products": [
+        {
+          "_id": "64af124220630af2d4db9cce",
+          "id": "product2",
+          "name": "Printer",
+          "description": "A high-quality printer for home or office use",
+          "tags": [
+            "printer",
+            "office",
+            "home"
+          ],
+          "stock": 5,
+          "suppliers": [
+            {
+              "supplierId": "supplier3",
+              "price": 200,
+              "date": "2023-05-11T00:00:00.000Z"
+            }
+          ]
+        }
+      ],
+      "sales": [
+        {
+          "_id": "64ba538ee23f440cff1f289f",
+          "date": "2021-01-01",
+          "productsSold": [
+            {
+              "productId": "product1",
+              "quantity": 2,
+              "price": 999.99
+            },
+            {
+              "productId": "product2",
+              "quantity": 1,
+              "price": 199.99
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "64ba537c9fbc4b6d8938a832",
+      "id": "supplier1",
+      "name": "Supplier A",
+      "phoneNumber": "123-456-7890",
+      "address": {
+        "city": "Minsk",
+        "street": "Korolya",
+        "house": "43"
+      },
+      "products": [
+        {
+          "_id": "64af124220630af2d4db9ccd",
+          "id": "product1",
+          "name": "Personal Computer",
+          "description": "A powerful desktop computer for personal use",
+          "tags": [
+            "computer",
+            "desktop",
+            "personal"
+          ],
+          "stock": 10,
+          "suppliers": [
+            {
+              "supplierId": "supplier1",
+              "price": 1000,
+              "date": "2023-02-10T00:00:00.000Z"
+            },
+            {
+              "supplierId": "supplier2",
+              "price": 1002,
+              "date": "2023-02-10T00:00:00.000Z"
+            }
+          ]
+        }
+      ],
+      "sales": [
+        {
+          "_id": "64ba538ee23f440cff1f289e",
+          "date": "2021-02-15",
+          "productsSold": [
+            {
+              "productId": "product1",
+              "quantity": 1,
+              "price": 999.99
+            }
+          ]
+        },
+        {
+          "_id": "64ba538ee23f440cff1f289f",
+          "date": "2021-01-01",
+          "productsSold": [
+            {
+              "productId": "product1",
+              "quantity": 2,
+              "price": 999.99
+            },
+            {
+              "productId": "product2",
+              "quantity": 1,
+              "price": 199.99
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "64ba537c9fbc4b6d8938a833",
+      "id": "supplier2",
+      "name": "Supplier B",
+      "phoneNumber": "987-654-3210",
+      "address": {
+        "city": "Vitebsk",
+        "street": "Brovki",
+        "house": "2",
+        "office": "101"
+      },
+      "products": [
+        {
+          "_id": "64af124220630af2d4db9ccd",
+          "id": "product1",
+          "name": "Personal Computer",
+          "description": "A powerful desktop computer for personal use",
+          "tags": [
+            "computer",
+            "desktop",
+            "personal"
+          ],
+          "stock": 10,
+          "suppliers": [
+            {
+              "supplierId": "supplier1",
+              "price": 1000,
+              "date": "2023-02-10T00:00:00.000Z"
+            },
+            {
+              "supplierId": "supplier2",
+              "price": 1002,
+              "date": "2023-02-10T00:00:00.000Z"
+            }
+          ]
+        }
+      ],
+      "sales": [
+        {
+          "_id": "64ba538ee23f440cff1f289e",
+          "date": "2021-02-15",
+          "productsSold": [
+            {
+              "productId": "product1",
+              "quantity": 1,
+              "price": 999.99
+            }
+          ]
+        },
+        {
+          "_id": "64ba538ee23f440cff1f289f",
+          "date": "2021-01-01",
+          "productsSold": [
+            {
+              "productId": "product1",
+              "quantity": 2,
+              "price": 999.99
+            },
+            {
+              "productId": "product2",
+              "quantity": 1,
+              "price": 199.99
+            }
+          ]
+        }
+      ]
+    }
+  ]
