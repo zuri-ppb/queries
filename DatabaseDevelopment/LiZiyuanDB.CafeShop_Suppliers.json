@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "67bc7f7832b2296a469719c0"
+  },
+  "id": "suppliers001",
+  "company_name": "cocacola Co.",
+  "phone": "123-456-7890",
+  "delivery_price": 50,
+  "products": [
+    {
+      "product_id": "Coffee Beans",
+      "cost_price": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc881732b2296a469719db"
+  },
+  "id": "suppliers002",
+  "company_name": "Chinafood Co.",
+  "phone": "111-456-7890",
+  "delivery_price": 150,
+  "products": [
+    {
+      "product_id": [
+        "Coffee Beans",
+        "cream",
+        "Ice cubes"
+      ],
+      "cost_price": 2
+    }
+  ]
+}]

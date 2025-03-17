@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "67bc842d32b2296a469719d3"
+  },
+  "id": "customer002",
+  "product_ids": [
+    "Espresso",
+    "Espresso"
+  ],
+  "sale_date": "2025-03-24",
+  "total_amount": 71
+},
+{
+  "_id": {
+    "$oid": "67c9a1bf417506f4c44d0982"
+  },
+  "id": "customer001",
+  "product_ids": [
+    "Americano",
+    "Americano"
+  ],
+  "sale_date": "2025-02-24",
+  "total_amount": 7
+},
+{
+  "_id": {
+    "$oid": "67c9a1e8417506f4c44d0983"
+  },
+  "id": "customer004",
+  "product_ids": [
+    "Americano",
+    "Americano"
+  ],
+  "sale_date": "2025-09-24",
+  "total_amount": 111
+},
+{
+  "_id": {
+    "$oid": "67c9a1f5417506f4c44d0984"
+  },
+  "id": "customer005",
+  "product_ids": [
+    "Espresso",
+    "Espresso"
+  ],
+  "sale_date": "2025-12-24",
+  "total_amount": 101
+},
+{
+  "_id": {
+    "$oid": "67c9a204417506f4c44d0985"
+  },
+  "id": "customer0012",
+  "product_ids": [
+    "Espresso",
+    "Espresso"
+  ],
+  "sale_date": "2025-06-24",
+  "total_amount": 271
+},
+{
+  "_id": {
+    "$oid": "67ceffc63eb77823070c3e2f"
+  },
+  "id": "customer0012",
+  "product_ids": [
+    "Espresso",
+    "Espresso"
+  ],
+  "sale_date": "2025-01-24",
+  "total_amount": 1212
+},
+{
+  "_id": {
+    "$oid": "67ceffd83eb77823070c3e30"
+  },
+  "id": "customer0012",
+  "product_ids": [
+    "Espresso",
+    "Espresso"
+  ],
+  "sale_date": "2025-02-24",
+  "total_amount": 121122
+},
+{
+  "_id": {
+    "$oid": "67ceffe13eb77823070c3e31"
+  },
+  "id": "customer005",
+  "product_ids": [
+    "Espresso",
+    "Espresso"
+  ],
+  "sale_date": "2025-3-24",
+  "total_amount": 10
+},
+{
+  "_id": {
+    "$oid": "67ceffea3eb77823070c3e32"
+  },
+  "id": "customer005",
+  "product_ids": [
+    "Espresso",
+    "Espresso"
+  ],
+  "sale_date": "2025-4-24",
+  "total_amount": 505
+},
+{
+  "_id": {
+    "$oid": "67cefff23eb77823070c3e33"
+  },
+  "id": "customer005",
+  "product_ids": [
+    "Espresso",
+    "Espresso"
+  ],
+  "sale_date": "2025-6-24",
+  "total_amount": 1221
+}]

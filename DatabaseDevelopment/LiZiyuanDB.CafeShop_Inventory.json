@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "67bc7f6d32b2296a469719bf"
+  },
+  "id": "product001",
+  "info": {
+    "name": "Croissant",
+    "description": "Flaky pastry.",
+    "price": 2
+  },
+  "quantity": 100,
+  "last_updated": "2025-02-20"
+},
+{
+  "_id": {
+    "$oid": "67cef72f3eb77823070c3e28"
+  },
+  "id": "product002",
+  "info": {
+    "name": "Coffee Beans",
+    "description": "Coffee making ingredients.",
+    "price": 1
+  },
+  "quantity": 1000,
+  "last_updated": "2025-01-10"
+}]

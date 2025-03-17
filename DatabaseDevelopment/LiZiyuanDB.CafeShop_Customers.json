@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "67bc7f6332b2296a469719be"
+  },
+  "id": "customers001",
+  "name": "John Doe",
+  "phone": "098-765-4321",
+  "email": "john@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "67bc811632b2296a469719c8"
+  },
+  "id": "customers002",
+  "name": "Davi J",
+  "phone": "098-123-4321",
+  "email": "Davi@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "67bc813232b2296a469719ca"
+  },
+  "id": "customers003",
+  "name": "Anna Jan",
+  "phone": "098-314-4321",
+  "email": "anni0102@gmail.com"
+}]

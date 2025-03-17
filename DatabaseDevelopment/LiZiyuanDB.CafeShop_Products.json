@@ -1,0 +1,181 @@
+[{
+  "_id": {
+    "$oid": "67bc7f5732b2296a469719bd"
+  },
+  "id": "products002",
+  "name": "Espresso",
+  "description": "Strong coffee brewed by forcing hot water through finely-ground coffee.",
+  "price": 3.5,
+  "supplier_id": {
+    "_id": {
+      "$oid": "67bc7f7832b2296a469719c0"
+    },
+    "id": "suppliers001",
+    "company_name": "cocacola Co.",
+    "phone": "123-456-7890",
+    "delivery_price": 50,
+    "products": [
+      {
+        "product_id": "Coffee Beans",
+        "cost_price": 1
+      }
+    ]
+  },
+  "tags": [
+    "coffee",
+    "espresso",
+    "beverage"
+  ],
+  "stock_quantity": 100
+},
+{
+  "_id": {
+    "$oid": "67bc7ffc32b2296a469719c3"
+  },
+  "id": "products003",
+  "name": "Americano",
+  "description": "Hot water with espresso.",
+  "price": 1.5,
+  "supplier_id": [
+    {
+      "_id": {
+        "$oid": "67bc7f7832b2296a469719c0"
+      },
+      "id": "suppliers001",
+      "company_name": "cocacola Co.",
+      "phone": "123-456-7890",
+      "delivery_price": 50,
+      "products": [
+        {
+          "product_id": "product001",
+          "cost_price": 2
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "67bc881732b2296a469719db"
+      },
+      "id": "suppliers002",
+      "company_name": "Chinafood Co.",
+      "phone": "111-456-7890",
+      "delivery_price": 150,
+      "products": [
+        {
+          "product_id": [
+            "product001",
+            "product002",
+            "product003"
+          ],
+          "cost_price": 12
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "coffee",
+    "beverage",
+    "Americano"
+  ],
+  "stock_quantity": 100
+},
+{
+  "_id": {
+    "$oid": "67bc80b032b2296a469719c5"
+  },
+  "id": "products004",
+  "name": "Mocha",
+  "description": "Chocolate with milk and coffee liquid.",
+  "price": 3.5,
+  "supplier_id": [
+    {
+      "_id": {
+        "$oid": "67bc7f7832b2296a469719c0"
+      },
+      "id": "suppliers001",
+      "company_name": "cocacola Co.",
+      "phone": "123-456-7890",
+      "delivery_price": 50,
+      "products": [
+        {
+          "product_id": "product001",
+          "cost_price": 2
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "67bc881732b2296a469719db"
+      },
+      "id": "suppliers002",
+      "company_name": "Chinafood Co.",
+      "phone": "111-456-7890",
+      "delivery_price": 150,
+      "products": [
+        {
+          "product_id": [
+            "product001",
+            "product002",
+            "product003"
+          ],
+          "cost_price": 12
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "mocha",
+    "beverage",
+    "coffee"
+  ],
+  "stock_quantity": 50
+},
+{
+  "_id": {
+    "$oid": "67bc7f4d32b2296a469719bc"
+  },
+  "id": "products001",
+  "name": "Croissant",
+  "description": "Flaky pastry.",
+  "price": 2,
+  "supplier_id": [
+    {
+      "_id": {
+        "$oid": "67bc7f7832b2296a469719c0"
+      },
+      "id": "suppliers001",
+      "company_name": "cocacola Co.",
+      "phone": "123-456-7890",
+      "delivery_price": 50,
+      "products": [
+        {
+          "product_id": "product001",
+          "cost_price": 2
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "67bc881732b2296a469719db"
+      },
+      "id": "suppliers002",
+      "company_name": "Chinafood Co.",
+      "phone": "111-456-7890",
+      "delivery_price": 150,
+      "products": [
+        {
+          "product_id": [
+            "product001",
+            "product002",
+            "product003"
+          ],
+          "cost_price": 12
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "pastry"
+  ],
+  "stock_quantity": 50
+}]
